@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: darkgray;
+    padding: 1.9rem;
+    display: flex;
+    justify-content: space-around;
+}
+/* .pt1{
+    border: 1.2rem;
+    font-size: 1.2rem;    
+} */
+.pt1 a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding-left: 2.8rem;
+    padding-right: 2.8rem;
+ }
+ .ptk{
+    background-color:aliceblue ;
+    margin:-1rem;
+    margin-top: -2rem;
+ }
+ .ptk h2{
+    text-align: center;
+    margin-left: 4rem;
+    margin-top: 2rem;
+ }
+ .ptk p{
+    text-align: center;
+    margin: 1rem;
+    line-height: 2rem;
+    margin-left: 3rem;
+ }
+ .ptk img{
+    display: flex;
+    height: 8rem;
+    width: 8rem;
+ }
+ #q2{
+    float: right;
+    margin-right: 6rem;
+ }
+ #q3{
+    margin-left: 7rem;
+    height: 9rem;
+    margin-top: -7rem;
+ }
+ #q4{
+    text-align: center;
+    display: block;
+    margin-top: 4rem;
+    margin-left: 11rem;
+ }
+ .ptx{
+   background-color: bisque;
+ }
+ .ptx h2{
+   margin-left: 41rem;
+   padding-top: 1rem;
+ }
+ .ptx label,input{
+   position: relative;
+   height: 1.5rem;
+   display: block;
+   bottom: 1rem;
+   
+ }
+ .ptx label{
+   margin-top: 2.5rem;
+   margin-left: 41rem;
+ }
+ .ptx input{
+   margin-bottom: 2rem;
+   margin-top: -.4rem;
+   margin-left: 41rem;
+ }
+ .ptn{
+   background-color:tan;
+   height: 28rem;
+   padding-bottom: 2rem;
+   margin-top: -2rem;
+ }
+ .ptn h2{
+   text-align: left;
+   padding-top: 1rem;
+   margin-left: 3rem;
+   margin-bottom: 2rem;
+ }
+ .ptn label,input{
+   margin-left: 4rem;
+   margin-top: 1rem;
+
+}
+ .ptn p, textarea{
+   position: relative;
+   float: right;
+ }
+ .ptn p{
+   margin-top: -16rem;
+   margin-right: 7rem;
+ }
+ .ptn textarea{
+   margin-top: -14rem;
+   margin-right: 5rem;
+ }
+ .mtn{
+   background-color:slategray;
+   height: 40rem;
+   margin-top: -1rem;
+   padding-top: 4rem;
+ }
+.mtn p,h2{
+   margin-left: 10rem;
+   margin-top: 1rem;
+}
+.mtn img{
+   border-radius: 2rem;
+   margin-left: 1rem;
+   margin-top: -3rem;
+}
+.mtn label,input{
+   position: relative;
+   margin-left: 10rem;
+}
+#p{
+   margin-left: 3rem;
+}
+.mtn input{
+   border-radius: .3rem;
+   color: dimgray;
+}
+.mtn h5,#n{
+   float: right;
+   margin-top: 4rem;
+   border: .5rem solid;
+   border-radius: 1rem;
+}
+.mtn h6,#m{
+   float: none;
+   border: .5rem solid;
+   border-radius: .9rem;
+   margin-top: -28rem;
+
+
+}
+.mtn h5{
+   margin-right: 8rem;
+   margin-top: -29rem;
+   color: red;
+}
+#n{
+   margin-top: -27rem;
+   margin-right: 3rem;
+}
+.mtn h6{
+   margin-top:-30rem;
+   margin-bottom: -2rem;
+   margin-left: 40rem;
+   margin-right: 36.5rem;
+   color: brown;
+}
+#m{
+   margin-right: 25rem;
+   margin-left: 35rem;
+   margin-top: 2rem;
+   margin-bottom: -15rem;
+}
+.bed{
+   height: 30rem; 
+   background-color: thistle;
+   padding-top: 2rem;
+}
+.bed p{
+   text-align: center;
+   margin-top: 1rem;
+   font-weight: bold;
+   ;
+}
+.bed label, select, input{
+   display: block;
+   margin-left: 10rem;
+   margin-top: 1.5rem;
+   position: relative;
+}
+#jp{
+   float: left;
+   margin-left: 3rem;
+   margin-top: 3rem;
+}
+#sj{
+   float: right;
+   margin-top: 2.5rem;
+   margin-right: 15rem;
+}
+#ks{
+   margin-top: 4.5rem;
+   margin-left: 28rem;
+}
+.peg{
+   text-align: center;
+   background-color: paleturquoise;
+}
+.peg h2{
+   margin-left: 2rem;
+}
